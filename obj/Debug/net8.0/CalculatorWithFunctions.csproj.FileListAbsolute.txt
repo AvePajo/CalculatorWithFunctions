@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.exe
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.deps.json
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\refint\CalculatorWithFunctions.dll
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\CalculatorWithFunctions\obj\Debug\net8.0\ref\CalculatorWithFunctions.dll
